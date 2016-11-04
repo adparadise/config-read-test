@@ -8,7 +8,7 @@
 
 const path = require('path');
 const assert = require('assert');
-const ConfigReader = require('./config-reader');
+const ConfigReader = require('./src/config-reader');
 
 
 let configRoot = path.join(__dirname, 'config');

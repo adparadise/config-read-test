@@ -1,0 +1,9 @@
+{
+  "setting1": true
+  "module": {
+    "setting2": false,
+    "submodule": {
+      "setting3": true
+    }
+  }
+}
